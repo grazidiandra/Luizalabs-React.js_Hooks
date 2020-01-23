@@ -21,7 +21,8 @@ npm start # build-in the project Port:3000
 ```
 ## TECNOLOGIAS
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-[React](https://reactjs.org/)  
+[React](https://reactjs.org/)     
+[Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)      
 [Axios](https://github.com/axios/axios)  
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)  
 [HTML](https://devdocs.io/html/)  

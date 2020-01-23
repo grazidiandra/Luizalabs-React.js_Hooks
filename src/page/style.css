@@ -1,0 +1,31 @@
+.pageCep-container {
+  align-items: center;
+  background: linear-gradient(to top, rgb(0,114,175)
+  , #33C3DD);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-height: 100vh;
+  padding-top: 80px;
+}
+
+.pageCep-container-searchCep {
+  align-items: flex-start;
+  background-color: #0072af;
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+  width: 500px;
+}
+
+.pageCep-text {
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+  padding-bottom: 20px;
+}
+
+.pageCep-text-err {
+  color: white;
+  font-size: 14px;
+}

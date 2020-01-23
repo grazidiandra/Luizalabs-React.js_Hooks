@@ -1,0 +1,45 @@
+.result-container {
+  border-top: 1px solid rgba(255,255,255, .5);
+  margin-top: 30px;
+  padding-top: 10px;
+  width: 420px;
+}
+
+.result-span-btn {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.result-btn {
+  background-color: #0072af;
+  border: none;
+  color: white;
+  cursor: pointer;
+  font-size: 18px;
+  height: 20px;
+  outline: none;
+  opacity: 0.8;
+  width: 20px;
+}
+
+.result-btn:hover {
+  opacity: 1;
+}
+
+.result-span-infos {
+  align-items: flex-start;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.result-span-infos p {
+  padding-top: 10px;
+}
+
+.result-map {
+  margin-top: 20px;
+  border: none
+}
